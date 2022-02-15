@@ -1,3 +1,15 @@
+# walletconnect-rn-dapp
+
+`create-react-native-dapp` is an `npx` utility to help bootstrap react native apps with access to Ethereum blockchain.
+
+## Features Summary
+
+- Bootstrapped with Expo - supports iOS, Android and Web
+- Served with Hardhat - comes with a simple example contract that you can deploy, test and interact with.
+- Powered by WalletConnect - connects to secure wallets such as Rainbow
+- Typed and pretty - pre-configured with typescript, integrated with prettier and husky.
+- Ready to go - pre-packaged with `.env` support using `react-native-dotenv` and companion test for your contracts.
+
 # TypeScript Example
 
 <p>
@@ -34,3 +46,4 @@ TypeScript is a superset of JavaScript which gives you static types and powerful
 ## 📝 Notes
 
 - [Expo TypeScript guide](https://docs.expo.dev/versions/latest/guides/typescript/)
+
